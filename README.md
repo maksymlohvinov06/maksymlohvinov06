@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Maksym!
 
-<!--
-**maksymlohvinov06/maksymlohvinov06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Python Backend Developer from Ukraine.
 
-Here are some ideas to get you started:
+I'm currently strengthening my Python fundamentals and studying Python with Django Framework at SoftServe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- Improving my Python problem-solving skills
+- Learning Django and exploring FastAPI
+- Developing my Vehicle Maintenance API learning project
+- Building my GitHub portfolio step by step
+
+### My goals
+- Become confident in Python and SQL
+- Build and deploy backend applications
+- Prepare for my first Junior Python Backend Developer role
+
+I'm focused on learning by doing and understanding the code I write.
